@@ -1,0 +1,1 @@
+用法：SetForegroundWindow.exe YouWindowPID
